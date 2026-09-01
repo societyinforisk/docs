@@ -4,7 +4,7 @@
 
 Adopted by the Board of Directors on November 17, 2021
 
-> **DRAFT UNDER BOARD REVIEW.** This version proposes edits raised by board members ahead of the upcoming bylaws session (Jim's and Darrell's notes). Sections with an open question for the Board are marked with a **DRAFTING NOTE** callout — everything else is proposed final language. Section numbering is new (see Format note below) and is proposed, not yet adopted.
+> **DRAFT UNDER BOARD REVIEW.** This version incorporates the Board's live discussion of the prior draft (bylaws review session). Sections with an open question for the Board are marked with a **DRAFTING NOTE** callout — everything else reflects what was discussed as agreed. Section numbering is new (see Format note below) and is proposed, not yet adopted.
 
 ## Table of Contents
 
@@ -20,10 +20,7 @@ Adopted by the Board of Directors on November 17, 2021
     - [2.C.ii Vice President](#2cii-vice-president)
     - [2.C.iii Secretary](#2ciii-secretary)
     - [2.C.iv Treasurer](#2civ-treasurer)
-    - [2.C.v At-large Elected Board Positions (Examples)](#2cv-at-large-elected-board-positions-examples)
-      - [2.C.v.1 Research Director](#2cv1-research-director)
-      - [2.C.v.2 Membership Director](#2cv2-membership-director)
-      - [2.C.v.3 Program Director](#2cv3-program-director)
+    - [2.C.v At-large Directors](#2cv-at-large-directors)
     - [2.C.vi Responsibilities of Directors](#2cvi-responsibilities-of-directors)
   - [2.D Election and Term of Office](#2d-election-and-term-of-office)
   - [2.E Resignation](#2e-resignation)
@@ -67,7 +64,7 @@ Adopted by the Board of Directors on November 17, 2021
   - [8.C Loans](#8c-loans)
   - [8.D Checks, Drafts, etc.](#8d-checks-drafts-etc)
   - [8.E Deposits](#8e-deposits)
-  - [8.F Petty Cash](#8f-petty-cash)
+  - [8.F Petty Cash and Spending Thresholds](#8f-petty-cash-and-spending-thresholds)
   - [8.G Books and Records](#8g-books-and-records)
   - [8.H Inspection of Records](#8h-inspection-of-records)
 - [Article 9: Amendment of Bylaws](#article-9-amendment-of-bylaws)
@@ -85,7 +82,7 @@ The principal office of the Society in the State of Minnesota shall be located i
 
 ## 1.A Vision (Strategy)
 
-> **DRAFTING NOTE (Jim):** This Vision statement is obsolete and should be replaced with the Board's current strategy language. The "standard of care" bullet below has been removed per feedback. Retained below only as a placeholder until replacement text is approved.
+> **DRAFTING NOTE — deferred to a future Board meeting (not the next one).** The Board compared this Vision/Mission against several other sources: the societyinforisk.org homepage, the 2021 Charter doc these Bylaws were pulled from, a September 2025 branding-committee deck, and the current Strategy & Annual Planning materials (the "North Star" concept — see [1.B](#1b-mission-statement)). Nobody could confirm when or how the website version was written, or whether it went through a formal Board decision; the current Bylaws text traces back to a 2017 APS review and was carried into these Bylaws unchanged in 2021. **The website version was preferred overall**, except the phrase "making the digital world more secure" was flagged as not quite right (the word "secure" specifically). No final language was adopted — reconciling Vision/Mission across all of these sources is a standalone agenda item for a future session. The "standard of care" bullet below stays removed per the earlier round of feedback; everything else below is retained only as a placeholder pending that reconciliation.
 
 Our vision is to see the full maturation and mainstream acceptance of Information Risk Management (IRM) as a discipline and profession through:
 
@@ -94,7 +91,7 @@ Our vision is to see the full maturation and mainstream acceptance of Informatio
 
 ## 1.B Mission Statement
 
-> **DRAFTING NOTE (Jim):** This Mission statement is also flagged obsolete. Replace with updated language reflecting the current strategy once approved by the Board.
+> **DRAFTING NOTE — same deferral as [1.A](#1a-vision-strategy).** Separately, note that the current Strategy & Annual Planning materials don't use a "Vision" and "Mission" pair at all — they use a single "North Star" statement that's explicitly described as blending the two (see the SiRA Strategic Plan deck, itself still marked DRAFT and not finalized). Reconciliation should decide not just the wording but whether Article 1 keeps separate Vision/Mission sections or moves to one North Star-style statement.
 
 The Society of Information Risk Analysts is dedicated to continually improving the practice of information risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education.
 
@@ -121,7 +118,9 @@ Candidates for President must have completed one or more prior term(s) as a dire
 
 ## 2.C Board Composition
 
-The Board shall include at minimum the following officer roles: President, Vice President, Treasurer, and Secretary. Additional elected directors are considered directors-at-large and will hold roles designed and designated according to the goals of the Board. No officer or director shall hold more than one Board role at any given time. At the discretion of the sitting President, the immediate Past President may be appointed to an at-large board role for one term.
+The Board shall include at minimum the following officer roles: President, Vice President, Treasurer, and Secretary. Additional elected directors are considered directors-at-large and will hold roles designed and designated according to the goals of the Board. No officer or director shall hold more than one Board role at any given time.
+
+By default, upon leaving office the immediate Past President serves the Board in an advisory, non-voting capacity for one term. At the discretion of the sitting President, the immediate Past President may instead be appointed to a voting at-large board role for one term, in lieu of the advisory role.
 
 At the discretion of the Board, additional appointed non-Board roles may be created to supplement task execution.
 
@@ -143,23 +142,11 @@ Performs custodial tasks for all corporate records, manages minutes of board mee
 
 Manages finances of the organization, administrator for fiscal matters of the organization, provides an annual budget to the board for approval, and ensures development and board review of financial policies and procedures.
 
-### 2.C.v At-large Elected Board Positions (Examples)
+### 2.C.v At-large Directors
 
-> **DRAFTING NOTE (Jim):** Clarified below that these are illustrative examples of *elected, voting* Board seats, as distinct from the *appointed, non-Board* committee chair/coordinator roles in [Article 4](#article-4-advisory-boards-and-committees). The former "Director of Business Development" example has been removed (its description duplicated event-coordination duties rather than describing a distinct role).
+> **DRAFTING NOTE:** Per Board discussion, the prior named examples (Research Director, Membership Director, Program Director) were removed as unnecessary and ambiguous — they read as a distinct class of director-at-large title sitting awkwardly alongside committee chairs. The Board is free to designate directors-at-large to lead specific efforts or committees without enumerating titles in the Bylaws.
 
-The roles below illustrate the kind of at-large director positions the Board may establish. Each is an elected, voting Board seat carrying the responsibilities in [2.C.vi](#2cvi-responsibilities-of-directors). These are distinct from appointed committee chair or coordinator roles (see [Article 4](#article-4-advisory-boards-and-committees)), which support the Board's work but do not hold a Board vote.
-
-#### 2.C.v.1 Research Director
-
-Coordinates member-led research efforts and special interest groups. May organize research discussions using electronic collaboration tools.
-
-#### 2.C.v.2 Membership Director
-
-Leads membership drives and projects designed to increase member engagement. Regularly connects with members to understand where the organization may add greater benefit. Maintains a current list of members (paid/official, and unpaid/organic).
-
-#### 2.C.v.3 Program Director
-
-Leads content development activities and facilitates distribution among membership. May work with appointed roles focused on organizing specific publications or events. Typically responsible for program schedule and content/speaker selection.
+At-large directors are elected, voting Board seats carrying the responsibilities in [2.C.vi](#2cvi-responsibilities-of-directors). The Board may appoint an at-large director to lead a specific effort or committee (see [Article 4](#article-4-advisory-boards-and-committees)) without changing their status as a voting director.
 
 ### 2.C.vi Responsibilities of Directors
 
@@ -178,7 +165,7 @@ Directors are expected to:
 
 > **DRAFTING NOTE (Jim):** Added explicit Board term dates. Confirm the exact dates and any transition-year handling at the session; the Board retains discretion to adjust.
 
-Each director will serve for a term of two years, running from October 1 through September 30 (the "Board Year"), unless otherwise adjusted at the Board's discretion. Directors will review the charter, the Bylaws, and discuss the slate of projects for the year at their first meeting following the election. The roles of the directors shall be determined by the Board within the first month following the election. Each officer shall hold that role until the next election has been completed.
+Each director will serve for a term of two years, running from October 1 through September 30 (the "Board Year"), unless otherwise adjusted at the Board's discretion. Directors will review these Bylaws before their first board meeting following the election, and will discuss the slate of projects for the year at that meeting. The roles of the directors shall be determined by the Board within the first month following the election. Each officer shall hold that role until the next election has been completed.
 
 ## 2.E Resignation
 
@@ -186,23 +173,25 @@ Resignations are effective upon receipt by the Secretary of the Board of a writt
 
 ## 2.F Removal
 
-Any officer, contractor, member, or director may be removed by a unanimous vote of the Board whenever, in its judgment, the best interests of the Society will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will.
+> **DRAFTING NOTE:** Added recusal language for a director's own removal vote, and clarified "unanimous" means unanimous among the remaining (non-recused) directors. This was flagged in discussion as a probable gap rather than a finalized decision — confirm at a future session.
+
+Any officer, contractor, member, or director may be removed by a unanimous vote of the Board whenever, in its judgment, the best interests of the Society will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will. A director who is the subject of a proposed removal shall not vote on the matter; in that case, "unanimous" means the unanimous affirmative vote of the remaining directors.
 
 ## 2.G Vacancies
 
-> **DRAFTING NOTE (Darrell):** Restructured this section into a list — the prior single paragraph mixed several distinct scenarios and was reported as confusing.
+> **DRAFTING NOTE (Darrell):** Restructured this section into a list — the prior single paragraph mixed several distinct scenarios and was reported as confusing. Also switched to "appointment" terminology for Board-filled seats, reserving "election" for the members' [Annual Election](#article-10-definitions) of directors — the two were being used ambiguously.
 
 A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by a quorum of the Board for the unexpired portion of the term. Specifically:
 
 - **Presidential vacancy:** If the role of President becomes vacant, the Vice President will assume the role of President, vacating the Vice President role, which is then filled per the process below.
-- **Filling a vacancy:** Any other vacancy on the Board may be filled by the affirmative vote of a majority of the remaining directors, even if fewer than a quorum remain, unless otherwise provided by law.
+- **Filling a vacancy:** Any other vacancy on the Board may be filled by appointment, through the affirmative vote of a majority of the remaining directors, even if fewer than a quorum remain, unless otherwise provided by law.
 - **Tie vote on filling a vacancy:** If the vote on filling a vacancy results in an equal number of affirmative and negative votes, the then-sitting President makes the final determination.
-- **Term of a director filling a vacancy:** A director elected to fill a vacancy serves for the unexpired term of their predecessor in office.
-- **New directorships:** A directorship created by an increase in the number of directors may be filled by Board election, for a term lasting only until the next election of directors.
+- **Term of a director filling a vacancy:** A director appointed to fill a vacancy serves for the unexpired term of their predecessor in office.
+- **New directorships:** A directorship created by an increase in the number of directors is filled using the same appointment procedure as filling a vacancy, above, for a term lasting only until the Society's next Annual Election of directors.
 
 ## 2.H Election of Directors
 
-The members will elect directors at a meeting designated by the Board as the Society's annual meeting. Vacancies in the Board will be filled by the Board as stated in [2.G Vacancies](#2g-vacancies) above rather than by a vote of the members.
+The members will elect directors at a meeting designated by the Board as the Society's annual meeting (the "Annual Election"). Vacancies in the Board are filled by Board appointment as stated in [2.G Vacancies](#2g-vacancies) above, rather than by a vote of the members.
 
 ## 2.I Regular Meetings
 
@@ -218,9 +207,9 @@ A special meeting may be called by the Board Chair or at the request of any two 
 
 ## 2.L Quorum
 
-> **DRAFTING NOTE (Jim):** "split decision" replaced with "tie".
+> **DRAFTING NOTE:** This section previously conflated the definition of quorum with meeting-adjournment procedure *and* how the Board makes decisions once a quorum is present. Per discussion, it's now limited to what quorum is and what happens without one; decision-making (majority vote, the tie-break, and what happens if a vote drops attendees below quorum) moved to [2.N Manner of Acting](#2n-manner-of-acting), which already covered adjacent ground. "Split decision" was also replaced with "tie" per earlier feedback.
 
-A majority of the number of elected and acting directors shall constitute a quorum for the transaction of business at any meeting of the Board. If less than such majority is present at a meeting, a majority of the directors present may adjourn the meeting from time to time without further notice. All decisions will be made by the majority vote of those present at a meeting at which a quorum is present. If a Board vote results in a tie, the Board Chair, if present at the meeting, can decide the issue.
+A majority of the elected and acting directors shall constitute a quorum for the transaction of business at any meeting of the Board. If a quorum is not present at a meeting, a majority of the directors present may adjourn the meeting from time to time without further notice.
 
 ## 2.M Participation in Meeting by Conference Telephone
 
@@ -228,7 +217,7 @@ Directors may participate in a meeting through the use of a virtual conference o
 
 ## 2.N Manner of Acting
 
-The act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board.
+The act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board. If a Board vote results in a tie, the Board Chair, if present at the meeting, can decide the issue. Once a quorum is established for a meeting, a director's later recusal, abstention, or departure does not by itself undo the quorum or invalidate an action already properly taken by majority vote.
 
 ## 2.O Action Without a Meeting
 
@@ -352,11 +341,11 @@ All checks, drafts, or other orders for the payment of money, notes, or other pi
 
 All funds of the Society not otherwise employed shall be deposited from time to time to the credit of the Society in such banks, trust companies, or other depositories as the Board may select.
 
-## 8.F Petty Cash
+## 8.F Petty Cash and Spending Thresholds
 
-> **DRAFTING NOTE (Jim):** Open question for the Board — should petty cash authority live in the Bylaws at all, or in the (currently unfinished) Finance policy instead? Bylaws require a formal amendment process to change, so a policy document may be the easier place to keep a dollar limit current. Dollar amount below is a placeholder pending Board decision on both the amount and where this belongs.
+> **DRAFTING NOTE:** Resolves the earlier open question. Rather than fix a dollar amount in the Bylaws (which require a formal amendment to change), the Bylaws now just authorize the Board to set spending thresholds by policy — the actual dollar limit(s) belong in the (currently unfinished) Finance policy, not here.
 
-The President may authorize petty cash expenditures, without prior Board approval, up to a limit of $[XXX] per [transaction/month — TBD], as set and periodically reviewed by the Board. All petty cash expenditures shall be reported to the Treasurer and recorded in the Society's financial records.
+The Board may, by policy, establish spending thresholds below which the President or another officer designated by the Board may authorize expenditures — including petty cash — without prior Board approval. Any such expenditure shall be reported to the Treasurer and recorded in the Society's financial records, and reviewed at the following Board meeting.
 
 ## 8.G Books and Records
 
@@ -388,10 +377,13 @@ For purposes of these Bylaws, the following terms have the meanings below.
 - **Board** — The Board of Directors of the Society.
 - **Director** — A voting member of the Board, whether serving as an Officer or an at-large director.
 - **Officer** — A Director holding the role of President, Vice President, Secretary, or Treasurer.
-- **At-large Director** — A Director who is not an Officer and whose role is designated by the Board (see [2.C.v](#2cv-at-large-elected-board-positions-examples)).
+- **At-large Director** — A Director who is not an Officer and whose role is designated by the Board (see [2.C.v](#2cv-at-large-directors)).
 - **Committee Chair / Coordinator** — An appointed, non-Board role created under [Article 4](#article-4-advisory-boards-and-committees) to support the Board's work; does not carry a Board vote.
 - **Member** — An individual granted membership in the Society under [Article 3](#article-3-members).
 - **Chapter** — A local chapter of the Society authorized under [Article 5](#article-5-local-chapters).
-- **Quorum** — A majority of the elected and acting Directors, as described in [2.L](#2l-quorum).
+- **Majority** — More than half of a specified group. For example, a majority of the Board means more than half of the elected and acting Directors.
+- **Quorum** — The minimum number of Directors — a majority of the elected and acting Directors — who must be present at a Board meeting to transact business, as described in [2.L](#2l-quorum).
+- **Annual Election** — The members' election of Directors, held at the Society's annual meeting (see [2.H](#2h-election-of-directors)).
+- **Appointment** — The Board's act of filling a Board vacancy, or a directorship created by an increase in Board size, other than through the Annual Election (see [2.G](#2g-vacancies)).
 - **Board Year** — The Society's annual Board term, currently October 1 through September 30 (see [2.D](#2d-election-and-term-of-office)).
 - **Fiscal Year** — The Society's accounting year, currently January 1 through December 31 (see [8.A](#8a-fiscal-year)).
