@@ -2,9 +2,7 @@
 
 ## _Amended and Restated Bylaws_
 
-Adopted by the Board of Directors on November 17, 2021
-
-> **DRAFT UNDER BOARD REVIEW.** This version incorporates the Board's live discussion of the prior draft (bylaws review session). Sections with an open question for the Board are marked with a **DRAFTING NOTE** callout — everything else reflects what was discussed as agreed. Section numbering is new (see Format note below) and is proposed, not yet adopted.
+Adopted by the Board of Directors on September 8, 2026.
 
 ## Table of Contents
 
@@ -82,16 +80,12 @@ The principal office of the Society in the State of Minnesota shall be located i
 
 ## 1.A Vision (Strategy)
 
-> **DRAFTING NOTE — deferred to a future Board meeting (not the next one).** The Board compared this Vision/Mission against several other sources: the societyinforisk.org homepage, the 2021 Charter doc these Bylaws were pulled from, a September 2025 branding-committee deck, and the current Strategy & Annual Planning materials (the "North Star" concept — see [1.B](#1b-mission-statement)). Nobody could confirm when or how the website version was written, or whether it went through a formal Board decision; the current Bylaws text traces back to a 2017 APS review and was carried into these Bylaws unchanged in 2021. **The website version was preferred overall**, except the phrase "making the digital world more secure" was flagged as not quite right (the word "secure" specifically). No final language was adopted — reconciling Vision/Mission across all of these sources is a standalone agenda item for a future session. The "standard of care" bullet below stays removed per the earlier round of feedback; everything else below is retained only as a placeholder pending that reconciliation.
-
 Our vision is to see the full maturation and mainstream acceptance of Information Risk Management (IRM) as a discipline and profession through:
 
 - Becoming the recognized authority on IRM in industry by groups and individuals; and
 - Developing, maintaining, and disseminating pragmatic, realistic, implementable evidence-based IRM practices and methodologies.
 
 ## 1.B Mission Statement
-
-> **DRAFTING NOTE — same deferral as [1.A](#1a-vision-strategy).** Separately, note that the current Strategy & Annual Planning materials don't use a "Vision" and "Mission" pair at all — they use a single "North Star" statement that's explicitly described as blending the two (see the SiRA Strategic Plan deck, itself still marked DRAFT and not finalized). Reconciliation should decide not just the wording but whether Article 1 keeps separate Vision/Mission sections or moves to one North Star-style statement.
 
 The Society of Information Risk Analysts is dedicated to continually improving the practice of information risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education.
 
@@ -144,13 +138,9 @@ Manages finances of the organization, administrator for fiscal matters of the or
 
 ### 2.C.v At-large Directors
 
-> **DRAFTING NOTE:** Per Board discussion, the prior named examples (Research Director, Membership Director, Program Director) were removed as unnecessary and ambiguous — they read as a distinct class of director-at-large title sitting awkwardly alongside committee chairs. The Board is free to designate directors-at-large to lead specific efforts or committees without enumerating titles in the Bylaws.
-
 At-large directors are elected, voting Board seats carrying the responsibilities in [2.C.vi](#2cvi-responsibilities-of-directors). The Board may appoint an at-large director to lead a specific effort or committee (see [Article 4](#article-4-advisory-boards-and-committees)) without changing their status as a voting director.
 
 ### 2.C.vi Responsibilities of Directors
-
-> **DRAFTING NOTE (Jim):** Simplified from the prior paragraph form. No explicit monthly-hours target is proposed (a past policy set one; consensus is not to reinstate it here) — flag at the session if the Board wants that revisited.
 
 Directors are expected to:
 
@@ -163,8 +153,6 @@ Directors are expected to:
 
 ## 2.D Election and Term of Office
 
-> **DRAFTING NOTE (Jim):** Added explicit Board term dates. Confirm the exact dates and any transition-year handling at the session; the Board retains discretion to adjust.
-
 Each director will serve for a term of two years, running from October 1 through September 30 (the "Board Year"), unless otherwise adjusted at the Board's discretion. Directors will review these Bylaws before their first board meeting following the election, and will discuss the slate of projects for the year at that meeting. The roles of the directors shall be determined by the Board within the first month following the election. Each officer shall hold that role until the next election has been completed.
 
 ## 2.E Resignation
@@ -173,13 +161,9 @@ Resignations are effective upon receipt by the Secretary of the Board of a writt
 
 ## 2.F Removal
 
-> **DRAFTING NOTE:** Added recusal language for a director's own removal vote, and clarified "unanimous" means unanimous among the remaining (non-recused) directors. This was flagged in discussion as a probable gap rather than a finalized decision — confirm at a future session.
-
 Any officer, contractor, member, or director may be removed by a unanimous vote of the Board whenever, in its judgment, the best interests of the Society will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will. A director who is the subject of a proposed removal shall not vote on the matter; in that case, "unanimous" means the unanimous affirmative vote of the remaining directors.
 
 ## 2.G Vacancies
-
-> **DRAFTING NOTE (Darrell):** Restructured this section into a list — the prior single paragraph mixed several distinct scenarios and was reported as confusing. Also switched to "appointment" terminology for Board-filled seats, reserving "election" for the members' [Annual Election](#article-10-definitions) of directors — the two were being used ambiguously.
 
 A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by a quorum of the Board for the unexpired portion of the term. Specifically:
 
@@ -206,8 +190,6 @@ Special meetings of the Board may be called by or at the request of the Board Ch
 A special meeting may be called by the Board Chair or at the request of any two (2) directors by notice not less than one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
 
 ## 2.L Quorum
-
-> **DRAFTING NOTE:** This section previously conflated the definition of quorum with meeting-adjournment procedure *and* how the Board makes decisions once a quorum is present. Per discussion, it's now limited to what quorum is and what happens without one; decision-making (majority vote, the tie-break, and what happens if a vote drops attendees below quorum) moved to [2.N Manner of Acting](#2n-manner-of-acting), which already covered adjacent ground. "Split decision" was also replaced with "tie" per earlier feedback.
 
 A majority of the elected and acting directors shall constitute a quorum for the transaction of business at any meeting of the Board. If a quorum is not present at a meeting, a majority of the directors present may adjourn the meeting from time to time without further notice.
 
@@ -269,8 +251,6 @@ The Board may, by resolution adopted by a majority of the directors, establish o
 
 # Article 5: Local Chapters
 
-> **DRAFTING NOTE (Jim):** This Article replaces the prior "Local Chapters" section, which was reported as incoherent (e.g., it read as "a local chapter may establish... local chapters," which doesn't parse). Rewritten below as: the Society/Board authorizes chapters, chapters must comply with Society bylaws, and the Board may suspend or dissolve a chapter.
-
 ## 5.A Authorization
 
 The Board may authorize the establishment of local Society chapters within a defined geographic boundary, such as a country, region, or city.
@@ -313,8 +293,6 @@ A copy of this conflict of interest statement shall be furnished to each directo
 
 ## 7.F Conflict of Interest and Confidentiality Agreement
 
-> **DRAFTING NOTE (Jim):** New subsection added per feedback, referencing a separate Conflict of Interest / Confidentiality Agreement. That agreement does not yet exist in this repo — link it here once drafted.
-
 Directors, officers, and any other individuals designated by the Board shall be required to review and execute the Society's Conflict of Interest and Confidentiality Agreement, as adopted and amended by the Board from time to time, and to renew that agreement at the frequency the Board establishes.
 
 # Article 8: Contracts and Financial Administration
@@ -343,13 +321,9 @@ All funds of the Society not otherwise employed shall be deposited from time to 
 
 ## 8.F Petty Cash and Spending Thresholds
 
-> **DRAFTING NOTE:** Resolves the earlier open question. Rather than fix a dollar amount in the Bylaws (which require a formal amendment to change), the Bylaws now just authorize the Board to set spending thresholds by policy — the actual dollar limit(s) belong in the (currently unfinished) Finance policy, not here.
-
 The Board may, by policy, establish spending thresholds below which the President or another officer designated by the Board may authorize expenditures — including petty cash — without prior Board approval. Any such expenditure shall be reported to the Treasurer and recorded in the Society's financial records, and reviewed at the following Board meeting.
 
 ## 8.G Books and Records
-
-> **DRAFTING NOTE:** This subsection and [8.H](#8h-inspection-of-records) existed in the prior document but were not formatted as proper headings (they sat under a broken "Advisory Boards, Committees, And Local Chapters" heading). Fixed here as part of the renumbering; no substantive change.
 
 Correct books of account of the activities and transactions of the Society shall be kept at the office of the Society and are available on-demand in hard or electronic copy.
 
@@ -368,8 +342,6 @@ Any member (individual or corporate) in good standing in accordance with the fol
 These Bylaws may be amended by a majority vote of the directors, provided prior notice is given of the proposed amendment in the notice of the meeting at which such action is taken, or provided all directors waive such notice, or by unanimous consent in writing without a meeting.
 
 # Article 10: Definitions
-
-> **DRAFTING NOTE (Darrell):** New Article added per feedback that the Bylaws would benefit from a definitions section. Placed at the end so it doesn't renumber the Articles above; the Board may prefer to relocate it to the front (common in nonprofit bylaws) — worth a quick discussion at the session.
 
 For purposes of these Bylaws, the following terms have the meanings below.
 
